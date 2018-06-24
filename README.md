@@ -1,6 +1,8 @@
 # Dominos-Israel-Automated-Delivery
 A project that automate the process of buying pizza from Dominos Israel
 
+# The RAR file has the full project, and the Domi.py has the currect code (Ver. 0.5 beta/24.6.18)
+
 A few notes:
 
 I'm in now way, shape or form affiliated with Dominos Pizza Israel.
