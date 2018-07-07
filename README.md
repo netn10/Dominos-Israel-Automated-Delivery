@@ -1,5 +1,5 @@
 # Dominos-Israel-Automated-Delivery (Ver. 1.0 7.7.18)
-A project that automate the process of buying pizza from Dominos Israel
+A project that automate the process of buying pizza from Dominos Israel.
 
 # A few notes:
 
